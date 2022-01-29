@@ -1,4 +1,3 @@
-package Pattern;
 import java.util.*;
 public class RadialPattern{
     public static void main(String[] args) throws Exception {

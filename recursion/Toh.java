@@ -1,4 +1,3 @@
-import java.io.*;
 import java.util.*;
 
 public class Toh {
@@ -13,7 +12,7 @@ public class Toh {
            int t2 = scn.nextInt();
 
            int t3 = scn.nextInt();
-           
+           scn.close();
 
            toh(n , t1 , t2  , t3);
 

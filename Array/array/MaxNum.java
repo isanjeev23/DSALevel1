@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 public class MaxNum{
@@ -8,7 +7,7 @@ public class MaxNum{
         int k = scn.nextInt();
         scn.close();
 
-        int max = maxnumber( n , k );
+        int max = maxnumber( n , k ); // this function will form max num after removal of k digit
 
         System.out.println(max);
     }

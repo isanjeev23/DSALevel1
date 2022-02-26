@@ -16,6 +16,8 @@ public class Barchart {
             }
         }
 
+        scn.close();
+
         for(int i=max ; i>=1 ; i--){
 
             for(int j=0 ; j<n ; j++){
